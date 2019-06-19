@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ir.boozar.databasecreator.ActivityMain" >
+    
+    <item android:id="@+id/set_quality"
+        android:title="تعیین کیفیت عکسها"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>
